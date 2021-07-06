@@ -26,7 +26,7 @@ const quiz = [
         answer: 2
     },
     {
-        q:"___ they at home",
+        q:"___ they at home?",
         options:["Do", "Are", "-", "Is"],
         answer: 1
     },
